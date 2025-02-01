@@ -1,0 +1,4 @@
+/* Highlight table rows on hover */
+#listingsTable tr:hover {
+    cursor: pointer;
+}
