@@ -7,6 +7,7 @@
 *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 * 
 *  Name: Aksharajsinh Parmar Student ID: 140204223 Date: 28/01/2025
+*  GitHub: https://github.com/AXRZCE/WEB422-A2
 ********************************************************************************/
 
 // Base API URL for the backend
